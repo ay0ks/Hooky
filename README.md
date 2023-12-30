@@ -2,7 +2,7 @@
 -----
 Install:
 ```
-python HookySetup.py -install
+make && sudo make install
 ```
 
 Simple usage:
