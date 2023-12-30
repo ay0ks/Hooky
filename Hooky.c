@@ -135,7 +135,7 @@ static PyMethodDef _Hooky_Methods[] = {
 static struct PyModuleDef _Hooky_ModuleDef = {
     PyModuleDef_HEAD_INIT,
     "_hooky",
-    HOOKY_VERSION " by " HOOKY_AUTHOR ".\n" HOOKY_DOC,
+    _HOOKY_VERSION " by " _HOOKY_AUTHOR ".\n" _HOOKY_DOC,
     -1,
     _Hooky_Methods
 };
