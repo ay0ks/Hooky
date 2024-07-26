@@ -1,5 +1,5 @@
 // Hooky
-// ~ Dymitr "ay0ks" <dimitriy@darkcat.cloud>
+// Dimitriy "ay0ks" <ay0o0ks000@gmail.com>
 // See license in LICENSE
 
 #include <stdarg.h>
