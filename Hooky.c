@@ -8,7 +8,7 @@
 #include <malloc.h>
 #include <Python.h>
 
-#define _HOOKY_AUTHOR  "Dymitr \"ay0ks\" <dimitriy@darkcat.cloud>"
+#define _HOOKY_AUTHOR  "Dimitriy "ay0ks" <ay0o0ks000@gmail.com>"
 #define _HOOKY_VERSION "hooky 1.0.0 (2023-11-05)"
 #define _HOOKY_DOC     "Hooky internal implementation"
 
